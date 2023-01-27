@@ -11,8 +11,29 @@
 
 1. for the files and folders only use lowercase and separate the words with a **"-"**.
 
+### Visual Code
+
+- Spaces: 4 or 2
+
 ### gitignore
 
 ### prettier
 
+### gitatributes
+
+- `\* text=auto eol=lf`
+
 ### sass encoder
+
+```json
+{
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded"
+      // "extensionName": "min.css",
+      // "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false
+}
+```
