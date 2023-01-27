@@ -14,6 +14,8 @@
 
 - [ ] Phone and desktop LOFI layout (Paper)
 
+- [ ] Do we want English and Swedish? (maybe tricky)
+
 - [ ] Web surfing inspiration collection (choose good/bad webs (full and partial) examples )
 
 - [ ] Color selection
