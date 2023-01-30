@@ -4,34 +4,42 @@
 
 - [x] #000 Set up Github
 
-- [ ] #001 Add team members
+- [x] #001 Add team members
 
-- [ ] #002 Buy domain
+- [ ] #002 Buy domain [ummc.se]
 
 ## Develop / ideation
 
-- [ ] #Abstract Brainstorming
+- [ ] #900 Abstract Brainstorming
 
-- [ ] Which sections and functions we can have
+- [ ] #901 Which sections and functions we can have
 
-- [ ] Conceptual Brainstorming
+- [ ] #902 Conceptual Brainstorming
 
-- [ ] Phone and desktop LOFI layout (Paper)
+- [ ] #903 Phone and desktop LOFI layout (Paper)
 
-- [ ] Do we want English and Swedish? (maybe tricky)
+- [ ] #904 Do we want English and Swedish? (maybe tricky)
 
-- [ ] Web surfing inspiration collection (choose good/bad webs (full and partial) examples )
+- [ ] #905 Web surfing inspiration collection (choose good/bad webs (full and partial) examples )
 
-- [ ] Color selection
+- [ ] #905 Color selection
 
-- [ ] Font choice
+- [ ] #905 Font choice
 
-- [ ] Phone and desktop HIFI layout (Figma)
+- [ ] #905 Phone and desktop HIFI layout (Figma)
 
-- [ ] Animations
+- [ ] #905 Animations
 
-- [ ] Let club people to test it and take notes and their opinions
+- [ ] #905 Let club people to test it and take notes and their opinions
 
-- [ ] Process that opinions and tracking to
+- [ ] #905 Process that opinions and tracking to
 
-- [ ] Improve
+- [ ] #905 Improve
+
+## Implement functions
+
+- [ ] #405 Improve
+
+## Pages
+
+- [ ] #505 Improve
