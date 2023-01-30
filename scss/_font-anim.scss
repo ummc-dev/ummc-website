@@ -1,0 +1,54 @@
+// Normal clock rotate
+@keyframes spin {
+  // from {
+  //   transform: rotate(0deg);
+  // }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+//tranparency opacity
+@keyframes variableOpacity {
+  0% {
+    opacity: 100%;
+  }
+  66% {
+    opacity: 33%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+//// BRUJULA
+@keyframes brujula {
+  to {
+    transform: rotateZ(23deg);
+  }
+}
+
+@keyframes goLeft {
+  to {
+    transform: translateX(-0.6rem);
+  }
+}
+
+@keyframes navbarAppears {
+  from {
+    transform: translateX(5rem);
+    opacity: 20%;
+  }
+  to {
+    transform: translateX(0rem);
+    opacity: 100%;
+  }
+}
+
+// FONT
+// Tourney
+@keyframes to400Anim {
+  to {
+    font-weight: 400;
+  }
+}

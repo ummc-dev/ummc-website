@@ -1,0 +1,69 @@
+///////////////////////////////////////
+////////////// Font Family ////////////
+///////////////////////////////////////
+// SPACE + TOURNEY
+$ff-space-grotesk: 'Space Grotesk', 'Helvetica Neue', Helvetica, Arial,
+  sans-serif;
+$ff-sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$ff-grotesk-mono: 'Space Mono', SFMono-Regular, Menlo, Monaco, Consolas,
+  'Liberation Mono', 'Courier New', monospace;
+$ff-tourney: 'Tourney', Menlo, Monaco, Consolas, 'Liberation Mono',
+  'Courier New', monospace;
+
+// CHINESE + JAPANESE
+$ff-l-zh: 'genyogothictw', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+  'Segoe UI Symbol', 'Noto Color Emoji';
+$ff-m-zh: Helvetica, Arial, 'LiHei Pro', '黑體-繁', '微軟正黑體', sans-serif;
+$ff-jp-elegant: 'Hiragino Kaku Gothic ProN', Roboto, Arial, Helvetica,
+  sans-serif;
+
+// SPECIAL
+$ff-emoji: sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji',
+  color-emoji;
+$ff-special-char: Menlo, 'Noto Sans Symbols2', 'Arial Unicode MS',
+  'Zapf Dingbats', sans-serif;
+
+///////////////////////////////////////
+//////////// COLORS ///////////////
+///////////////////////////////////////
+$background-color: #f0daff;
+$background-selected-color: hsl(58, 100%, 51%);
+$font-black: #232522;
+$dark-gray: #333333;
+$font-gray: #5b5957;
+$font-light-gray: #82807d;
+
+$skillshare-green: hsl(151, 100%, 50%);
+$font-weight-heavy: 800;
+
+///////////////////////////////////////
+///////////////// GRADIENT ///////////////
+///////////////////////////////////////
+$linear-gradient-purple-blue: linear-gradient(
+  90deg,
+  rgba(126, 21, 220, 1) 0%,
+  rgba(72, 104, 212, 1) 100%
+);
+
+///////////////////////////////////////
+///////////////// Transition ///////////////
+///////////////////////////////////////
+$trans-fast: 0.15s;
+$trans-normal: 0.3s;
+$trans-slow: 0.45s;
+$trans-turtle: 0.9s;
+$trans-caracol: 1.8s;
+$trans-pi: 3.14s;
+
+$delay-fast: 0.1s;
+$delay-normal: 0.16s;
+$delay-slow: 0.314s;
+
+///////////////////////////////////////
+///////////////////////////////////////
+///////////////// CURSORS ///////////////
+///////////////////////////////////////
+$cursor-pointer-hand: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='32' height='29' viewport='0 0 100 100' style='fill:black;font-size:18px;transform:translate(8px,0px);'><text y='57%'>👆</text></svg>")
+    16 0,
+  auto;

@@ -1,0 +1,35 @@
+@import '../scss/global+mixins';
+@import '../scss/variables';
+
+:root {
+  --color-bg: #fff;
+  --heart-emoji: '🤍';
+  --heart-emoji-on-hover: '💚';
+}
+
+[data-theme='dark'] {
+  --color-bg: #000;
+  --heart-emoji: '🖤';
+  --heart-emoji-on-hover: '💜';
+}
+
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  position: relative;
+  background: var(--color-bg);
+  transition: background 0.3s;
+}
+
+// .preloader {
+// }
+
+.main {
+  @media (min-width: 768px) {
+  }
+}
+
+// footer {
+// }

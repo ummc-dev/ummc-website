@@ -1,12 +1,16 @@
 # TO-DO LIST
 
-- [x] Set up Github
+## Set up
 
-- [ ] Add team members
+- [x] #000 Set up Github
 
-- [ ] Buy domain
+- [ ] #001 Add team members
 
-- [ ] Abstract Brainstorming
+- [ ] #002 Buy domain
+
+## Develop / ideation
+
+- [ ] #Abstract Brainstorming
 
 - [ ] Which sections and functions we can have
 
