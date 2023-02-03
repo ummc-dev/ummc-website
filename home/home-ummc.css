@@ -70,3 +70,18 @@ body {
   background: var(--color-bg);
   transition: background 0.3s;
 }
+
+html {
+  height: 100%;
+  width: 100%;
+}
+html .working-on {
+  padding: 10rem;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+html .working-on #w-header {
+  text-align: center;
+}

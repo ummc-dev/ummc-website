@@ -33,3 +33,17 @@ body {
 
 // footer {
 // }
+html {
+  height: 100%;
+  width: 100%;
+  .working-on {
+    padding: 10rem;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    #w-header {
+      text-align: center;
+    }
+  }
+}
