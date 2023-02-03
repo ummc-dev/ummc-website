@@ -38,8 +38,7 @@ html {
 
   body {
     width: 100vw;
-    background-color: rgb(46, 29, 57);
-    padding: 1.25rem;
+    background-color: rgb(137, 118, 138);
     position: relative;
     display: grid;
 
@@ -57,7 +56,7 @@ html {
         font-family: 'Courier New', Courier, monospace;
       }
       #top-sub {
-        color: rgb(193, 239, 244);
+        color: rgb(204, 201, 100);
       }
       #w-header {
         font-family: 'Courier New', Courier, monospace;
@@ -65,7 +64,7 @@ html {
         text-align: center;
         word-spacing: -2rem;
         // padding-bottom: 1vh;
-        color: rgb(99, 222, 46);
+        color: rgb(167, 216, 60);
       }
 
       #working-gif {
@@ -73,15 +72,16 @@ html {
         padding-top: 0vh;
       }
       #to-erik-sub {
-        color: rgb(32, 14, 43);
+        color: rgb(145, 131, 146);
+        font-size: 1.5rem;
       }
       #w-sub {
         padding-top: 7vh;
         font-size: 2.1vw;
         a {
-          color: rgb(227, 77, 225);
+          color: rgb(228, 112, 61);
           &:hover {
-            color: rgb(92, 227, 77);
+            color: rgb(146, 218, 219);
           }
         }
       }
