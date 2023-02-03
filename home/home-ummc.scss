@@ -55,27 +55,25 @@ html {
       padding: 13%;
       height: 100%;
       width: 100%;
-      // display: flex;
-      // justify-content: center;
 
       #w-header {
         font-family: 'Courier New', Courier, monospace;
-        font-size: 5vw;
+        font-size: 7vw;
         text-align: center;
+        word-spacing: -2rem;
         padding: 6vh;
-        color: rgb(255, 108, 54);
+        color: rgb(74, 255, 54);
       }
       h3 {
-        font-size: 2vw;
+        font-size: 2.3vw;
         text-align: center;
         font-family: 'Courier New', Courier, monospace;
-        color: rgb(255, 234, 75);
+        color: rgb(206, 206, 206);
       }
       #w-sub {
-        font-size: 1.7vw;
+        font-size: 2.1vw;
         a {
-          color: rgb(255, 234, 75);
-          // text-decoration-color: transparent;
+          color: rgb(255, 1, 251);
         }
       }
     }
