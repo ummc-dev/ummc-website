@@ -38,42 +38,51 @@ html {
 
   body {
     width: 100vw;
-    background-color: rgb(4, 2, 9);
+    background-color: rgb(46, 29, 57);
     padding: 1.25rem;
     position: relative;
     display: grid;
-    // grid-template-columns: 1fr 1fr;
-    // grid-auto-rows: 60px;
-    // grid-gap: 20px;
 
     // WORKING ON
     .working-on {
-      // display: flex;
       align-items: center;
       justify-content: center;
-      // font-weight: 400;
       padding: 13%;
       height: 100%;
       width: 100%;
 
+      h3 {
+        text-align: center;
+        font-size: 2.3vw;
+        font-family: 'Courier New', Courier, monospace;
+      }
+      #top-sub {
+        color: rgb(193, 239, 244);
+      }
       #w-header {
         font-family: 'Courier New', Courier, monospace;
         font-size: 7vw;
         text-align: center;
         word-spacing: -2rem;
-        padding: 6vh;
-        color: rgb(74, 255, 54);
+        // padding-bottom: 1vh;
+        color: rgb(99, 222, 46);
       }
-      h3 {
-        font-size: 2.3vw;
-        text-align: center;
-        font-family: 'Courier New', Courier, monospace;
-        color: rgb(206, 206, 206);
+
+      #working-gif {
+        padding: 0vh 7vh 0vh 7vh;
+        padding-top: 0vh;
+      }
+      #to-erik-sub {
+        color: rgb(32, 14, 43);
       }
       #w-sub {
+        padding-top: 7vh;
         font-size: 2.1vw;
         a {
-          color: rgb(255, 1, 251);
+          color: rgb(227, 77, 225);
+          &:hover {
+            color: rgb(92, 227, 77);
+          }
         }
       }
     }
