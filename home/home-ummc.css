@@ -1,4 +1,3 @@
-@charset "UTF-8";
 html {
   font-size: 62.5%;
   box-sizing: border-box;
@@ -48,26 +47,15 @@ h6 {
   overflow-wrap: break-word;
 }
 
-:root {
-  --color-bg: #fff;
-  --heart-emoji: "🤍";
-  --heart-emoji-on-hover: "💚";
-}
-
-[data-theme=dark] {
-  --color-bg: #000;
-  --heart-emoji: "🖤";
-  --heart-emoji-on-hover: "💜";
-}
-
 html {
   height: 100%;
+  width: 100%;
 }
 
 body {
   min-height: 100%;
+  width: 100vw;
   position: relative;
-  background: var(--color-bg);
   transition: background 0.3s;
 }
 
@@ -75,13 +63,36 @@ html {
   height: 100%;
   width: 100%;
 }
-html .working-on {
-  padding: 10rem;
+html body {
+  width: 100vw;
+  background-color: rgb(4, 2, 9);
+  padding: 1.25rem;
+  position: relative;
+  display: grid;
+}
+html body .working-on {
+  align-items: center;
+  justify-content: center;
+  padding: 13%;
   height: 100%;
   width: 100%;
-  display: flex;
-  justify-content: center;
 }
-html .working-on #w-header {
+html body .working-on #w-header {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 5vw;
   text-align: center;
+  padding: 6vh;
+  color: rgb(255, 108, 54);
+}
+html body .working-on h3 {
+  font-size: 2vw;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 234, 75);
+}
+html body .working-on #w-sub {
+  font-size: 1.7vw;
+}
+html body .working-on #w-sub a {
+  color: rgb(255, 234, 75);
 }
