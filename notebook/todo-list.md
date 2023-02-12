@@ -6,7 +6,7 @@
 
 - [x] #001 Add team members
 
-- [ ] #002 Buy domain [ummc.se]
+- [x] #002 Buy domain [ummc.se]
 
 ## Develop / ideation
 
