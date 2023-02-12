@@ -4,4 +4,8 @@
 
 1. <https://sealandgov.org>
 
-2. <https://abcdinamo.com>
+1. <https://abcdinamo.com>
+
+1. <https://papersizes.io/us/>
+
+1. <https://css-tricks.com/guides/>
