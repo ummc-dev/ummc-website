@@ -9,3 +9,5 @@
 1. <https://papersizes.io/us/>
 
 1. <https://css-tricks.com/guides/>
+
+1. <https://www.vice.com/en>
