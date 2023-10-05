@@ -23,3 +23,5 @@ Inspirations
 1. <https://www.vice.com/en>
 
 1. <https://www.tradera.com/>
+
+1. <https://tonyschocolonely.com/uk/en>
